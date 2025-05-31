@@ -1,0 +1,8 @@
+{
+    "disks": [
+        {
+            "name": "fitland-disk",
+            "mountTo": "public"
+        }
+    ]
+}
